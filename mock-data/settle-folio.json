@@ -1,0 +1,8 @@
+{
+    "data": {
+        "success": false,
+        "errorCode": 5002,
+        "ErrorMessage": "Backend PMS Error",
+        "exception": "com.fasterxml.jackson.core.JsonParseException: Unexpected characters"
+    }
+}
